@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/fobus1212/praktica/static/css/main.50c43afd.css",
+    "main.js": "/fobus1212/praktica/static/js/main.a4ff64a7.js",
+    "static/media/cat2.jpg": "/fobus1212/praktica/static/media/cat2.9a72223c39830e6b92ff.jpg",
+    "static/media/Group 1539.png": "/fobus1212/praktica/static/media/Group 1539.f66c1fe230f9f44572e7.png",
+    "static/media/cat1.jpg": "/fobus1212/praktica/static/media/cat1.d0e39be6a1384340158b.jpg",
+    "static/media/cat3.jpg": "/fobus1212/praktica/static/media/cat3.c873bd5fa46354140474.jpg",
+    "static/media/kart.png": "/fobus1212/praktica/static/media/kart.4259c0a5d9d85eba03b6.png",
+    "static/media/avt.png": "/fobus1212/praktica/static/media/avt.a3ccba29e463524c7e2c.png",
+    "index.html": "/fobus1212/praktica/index.html",
+    "main.50c43afd.css.map": "/fobus1212/praktica/static/css/main.50c43afd.css.map",
+    "main.a4ff64a7.js.map": "/fobus1212/praktica/static/js/main.a4ff64a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50c43afd.css",
+    "static/js/main.a4ff64a7.js"
+  ]
+}
